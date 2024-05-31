@@ -1,5 +1,8 @@
 # -*- coding: utf-8 -*-
 
+# modified by Josef Resl in 2024. Licensed under the MIT License.
+# See LICENSE for details.
+
 from __future__ import absolute_import, division, print_function
 
 import sys
@@ -29,6 +32,10 @@ A simple main function has been added for testing an plotting.
 
 Note: This version is optimized for normal incidence calculations only.
 """
+
+
+#Original algorithm and implementation
+#Copyright (C) 2012-2020 Steven Byrnes
 
 
 """

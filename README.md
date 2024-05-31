@@ -53,3 +53,4 @@ Resl, J., Hingerl, K., Gutierrez, Y., Losurdo, M., & Cobet, C. (2024). Optimizin
 This project is licensed under the MIT License. See `LICENSE` for details.
 
 Parts of this project use the FEniCS libraries, which are licensed under the GNU Lesser General Public License (LGPL). See `LICENSE-LGPL` for details.
+

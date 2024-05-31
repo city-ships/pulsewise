@@ -1,5 +1,10 @@
 # -*- coding: utf-8 -*-
 
+# Josef Resl 2024. Licensed under the MIT License.
+# See LICENSE for details.
+
+
+
 """
 Picosecond laser melting simulatinon of a thin film
 
