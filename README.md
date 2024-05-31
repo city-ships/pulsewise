@@ -31,7 +31,7 @@ You can install these dependencies using pip.
 - **Distro**: Linux Mint 21.2 Victoria
 
 ## Usage
-The main script is `laser_phase_transformation_simulation.py`. To run the simulation, execute the script using Python.
+The main script is `sb2s3_thin_film_laser_amorphization.py`. To run the simulation, execute the script using Python.
 
 ### Example
 To run the simulation with specific parameters, call the `run_simulation` function with appropriate arguments. 
@@ -50,8 +50,3 @@ Resl, J., Hingerl, K., Gutierrez, Y., Losurdo, M., & Cobet, C. (2024). Optimizin
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
-
-## Acknowledgments
-The authors acknowledge the support from the European Union’s Horizon 2020 research and innovation program (No 899598 - PHEMTRONICS), the Ramon y Cajal Fellowship (RYC2022-037828-I), and the Danube Project (Project No. MULT 07/2023).
-
-This `README.md` now includes specific details about the Python packages and their versions, as well as the OS information required to run the script, all formatted without using code blocks or any Python code.
