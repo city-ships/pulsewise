@@ -1,7 +1,7 @@
-# Laser-Induced Phase Transformations in Sb2S3 Thin Films
+# Laser-Induced Phase Transformations in Sb<sub>2</sub>S<sub>3</sub> Thin Films
 
 ## Overview
-This repository contains a Python script for simulating the heating and phase change dynamics in Sb2S3 thin films induced by pulsed laser irradiation. The simulation framework integrates critical physical phenomena such as thin film interference, heat conduction, and temperature-dependent optical properties to provide a comprehensive analysis of the laser-induced phase change process.
+This repository contains a Python script for simulating the heating and phase change dynamics in Sb<sub>2</sub>S<sub>3</sub> thin films induced by pulsed laser irradiation. The simulation framework integrates critical physical phenomena such as thin film interference, heat conduction, and temperature-dependent optical properties to provide a comprehensive analysis of the laser-induced phase change process.
 
 ## Features
 - **Thin Film Interference**: Accounts for the interaction of laser light with the thin film stack, affecting the distribution of the electric field and absorption within the film.
@@ -37,7 +37,7 @@ The main script is `laser_phase_transformation_simulation.py`. To run the simula
 To run the simulation with specific parameters, call the `run_simulation` function with appropriate arguments. 
 
 ## Script Details
-The script simulates the heating and phase change dynamics in Sb2S3 thin films under pulsed laser irradiation. It calculates the absorbed power using interference patterns, updates the temperature distribution based on the absorbed power and heat conduction, and recalculates the optical and thermal properties for each time step.
+The script simulates the heating and phase change dynamics in Sb<sub>2</sub>S<sub>3</sub> thin films under pulsed laser irradiation. It calculates the absorbed power using interference patterns, updates the temperature distribution based on the absorbed power and heat conduction, and recalculates the optical and thermal properties for each time step.
 
 ## Applications
 - **Optimization**: The framework can be used to optimize laser parameters for efficient phase change, minimizing energy consumption, and maximizing the speed of amorphization.
@@ -46,7 +46,7 @@ The script simulates the heating and phase change dynamics in Sb2S3 thin films u
 ## Citation
 If you use this code in your research, please cite the following paper:
 
-Resl, J., Hingerl, K., Gutierrez, Y., Losurdo, M., & Cobet, C. (2024). Optimizing Laser-Induced Phase Transformations in Sb2S3 Thin Films: Simulation Framework and Experiments. Journal Name. DOI: XXXXXXX
+Resl, J., Hingerl, K., Gutierrez, Y., Losurdo, M., & Cobet, C. (2024). Optimizing Laser-Induced Phase Transformations in Sb<sub>2</sub>S<sub>3</sub> Thin Films: Simulation Framework and Experiments. Journal Name. DOI: XXXXXXX
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
