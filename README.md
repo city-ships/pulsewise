@@ -48,5 +48,8 @@ If you use this code in your research, please cite the following paper:
 
 Resl, J., Hingerl, K., Gutierrez, Y., Losurdo, M., & Cobet, C. (2024). Optimizing Laser-Induced Phase Transformations in Sb<sub>2</sub>S<sub>3</sub> Thin Films: Simulation Framework and Experiments. Journal Name. DOI: XXXXXXX
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+## Licensing
+
+This project is licensed under the MIT License. See `LICENSE` for details.
+
+Parts of this project use the FEniCS libraries, which are licensed under the GNU Lesser General Public License (LGPL). See `LICENSE-LGPL` for details.
