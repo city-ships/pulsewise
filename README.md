@@ -46,7 +46,7 @@ The script simulates the heating and phase change dynamics in Sb<sub>2</sub>S<su
 ## Citation
 If you use this code in your research, please cite the following paper:
 
-Resl, J., Hingerl, K., Gutierrez, Y., Losurdo, M., & Cobet, C. (2024). Optimizing Laser-Induced Phase Transformations in Sb<sub>2</sub>S<sub>3</sub> Thin Films: Simulation Framework and Experiments. Journal Name. DOI: XXXXXXX
+Resl, J., Hingerl, K., Gutierrez, Y., Losurdo, M., & Cobet, C. (2024). Optimizing Laser-Induced Phase Transformations in Sb<sub>2</sub>S<sub>3</sub> Thin Films: Simulation Framework and Experiments. The Journal of Chemical Physics. DOI: XXXXXXX
 
 ## Licensing
 
