@@ -1,4 +1,5 @@
-# Laser-Induced Phase Transformations in Sb<sub>2</sub>S<sub>3</sub> Thin Films
+# Optimizing Laser-Induced Phase Transformations in Sb<sub>2</sub>S<sub>3</sub> Thin Films: Simulation Framework and Experiments
+
 
 ## Overview
 This repository contains a Python script for simulating the heating and phase change dynamics in Sb<sub>2</sub>S<sub>3</sub> thin films induced by pulsed laser irradiation. The simulation framework integrates critical physical phenomena such as thin film interference, heat conduction, and temperature-dependent optical properties to provide a comprehensive analysis of the laser-induced phase change process.
