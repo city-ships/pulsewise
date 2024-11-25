@@ -45,9 +45,9 @@ The script simulates the heating and phase change dynamics in Sb<sub>2</sub>S<su
 - **Adaptability**: It can be adapted for various thin film materials and laser configurations, making it a versatile tool for studying laser-induced phase transformations.
 
 ## Citation
-If you use this code in your research, please cite the following upcoming paper, which is now being reviewed:
+If you use this code in your research, please cite the following paper:
 
-Resl, J., Hingerl, K., Gutierrez, Y., Losurdo, M., & Cobet, C. (2024). Optimizing Laser-Induced Phase Transformations in Sb<sub>2</sub>S<sub>3</sub> Thin Films: Simulation Framework and Experiments. Journal of Applied Physics. DOI: XXXXXXX
+Resl, J., Hingerl, K., Gutierrez, Y., Losurdo, M., & Cobet, C. (2024). Optimizing laser-induced phase transformations in Sb₂S₃ thin films: Simulation framework and experiments. *Journal of Applied Physics*, 136, 173108. [DOI: 10.1063/5.0224152](https://doi.org/10.1063/5.0224152)
 
 ## Licensing
 
