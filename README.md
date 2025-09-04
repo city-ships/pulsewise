@@ -1,4 +1,4 @@
-# Optimizing Laser-Induced Phase Transformations in Sb<sub>2</sub>S<sub>3</sub> Thin Films: Simulation Framework and Experiments
+# A Python framework for simulating laser-induced phase transformations
 
 
 ## Overview
