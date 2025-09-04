@@ -1,4 +1,4 @@
-# A Python framework for simulating laser-induced phase transformations
+# A Python Framework for Simulating Laser-induced Phase Transformations
 
 
 ## Overview
